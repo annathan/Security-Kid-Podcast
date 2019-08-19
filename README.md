@@ -1,4 +1,5 @@
 # Security-Kid-Podcast
+![Security Kid Podcast logo](Security-Kid-Podcast/SecurityKid_1400x1400.png)
 
 A chat about all things technology and security, between a security focused Dad and his technology obsessed daughter
 Understanding security from a kid's point of view
