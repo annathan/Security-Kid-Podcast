@@ -12,4 +12,6 @@ Understanding security from a kid's point of view.
 * Listen on [Spotify](https://t.co/WEbdatsYBw?amp=1)
 * Listen on our [page](https://t.co/uwgTvBk7yt?amp=1)
 
-Andrew is a Microsoft employee, the opinions expressed in this podcast are his or his daughter's and not an official company statement. 
+* Read the episode [Transcripts](https://github.com/annathan/Security-Kid-Podcast/tree/master/Podcast/Transcripts)
+
+Andrew is a Microsoft employee, the opinions expressed in this podcast are his or his daughter's and not an official company statement.
